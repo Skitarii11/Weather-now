@@ -4,8 +4,6 @@
 
 Weather-Now is a web application that allows users to retrieve real-time weather information for any city by entering its name in a search bar. The app makes use of the OpenWeatherMap API to gather and display up-to-date weather data for the user's desired location.
 
-![Weather-Now Screenshot](https://i.imgur.com/YJtzyrE.png)
-
 ## Installation
 
 Weather-Now is a web application and doesn't require any installation. Simply visit the [website](https://weather-now-app.herokuapp.com/) to use the app.
